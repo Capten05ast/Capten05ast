@@ -78,7 +78,11 @@ Published in *iManager Journals*
 
 <div align="center">
   <a href="mailto:adityatilekar.sae.comp@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail.png" width="30" title="Gmail"/></a>
+
+&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/aditya-tilekar-b1671a253"><img src="https://img.icons8.com/fluency/48/linkedin.png" width="30" title="LinkedIn"/></a>
+
+&nbsp;&nbsp;
   <a href="https://leetcode.com/u/Aditya_Tilekar333/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="30" title="LeetCode"/></a>
 </div>
 
