@@ -2,8 +2,9 @@
 <h3 align="center">Frontend Developer ⚛️ | GenAI Intern 🤖 | React-Redux Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Frontend+Dev+Who+Loves+to+Code+💻;JS+%7C+React+%7C+Gen-AI+%7C+DSA+⚡;Always+learning+%7C+Always+building+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=%20Frontend+Dev+Who+Loves+to+Code+💻;%20JS+%7C+React+%7C+Gen-AI+%7C+DSA+⚡;%20Always+learning+%7C+Always+building+🚀" alt="Typing SVG" />
 </p>
+
 
 ---
 
