@@ -30,7 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure"/>
   <img src="https://i.imgur.com/gz6kNvO.png" height="40" alt="FlutterFlow" />
-  <img src="https://i.imgur.com/4M34hi2.png" height="40" alt="Postman" />
+  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" height="40" alt="Postman" />
 </p>
 
 ---
