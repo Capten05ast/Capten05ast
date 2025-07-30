@@ -1,8 +1,8 @@
 <h1 align="center">Hey there! 👋 I'm Aditya Tilekar</h1>
-<h3 align="center">Frontend Developer ⚛️ | Ex-GenAI Intern 🤖 | React-Redux Lover 🎨</h3>
+<h3 align="center">Frontend Developer ⚛️ | GenAI Intern 🤖 | React-Redux Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=440&lines=Crafting+Cool+UIs+with+Code+💻;JavaScript+Fan+%7C+React+Ninja+⚛️;Building+AI+Chatbots+%7C+FlutterFlow+Dev+🤖;Hanuman+Ji+is+my+source+of+power+🕉️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Frontend+Dev+Who+Loves+Code+💻;Gen+AI+Explorer+🧠;JS+%7C+React+%7C+Azure+%7C+FlutterFlow+⚡;Always+learning+%7C+Always+building+🚀" alt="Typing SVG" />
 </p>
 
 ---
@@ -10,17 +10,17 @@
 ### 🧠 About Me
 
 - 🎓 B.E. Computer Engineering @ Sinhgad Academy of Engineering, Pune  
-- 🔥 Frontend-focused developer building clean UI with JavaScript, React-Redux & GSAP  
-- 🤖 Gen AI Intern @ **Itomata LLP**  
-  - Built chatbots with **FlutterFlow + Groq API + Firebase + FastAPI**
-  - Deployed on **Azure**, **AWS** and automated infra with **Terraform**
-  - Explored **Postman API**, **CI/CD**, and real-time analytics  
+- 🔥 Passionate about building clean, responsive UIs with React and JavaScript  
+- 🤖 Former **Gen AI Intern @ Itomata LLP**  
+  - Built chatbots using **FlutterFlow**, **Groq APIs**, and **Firebase**  
+  - Worked with **Postman**, **Azure**, **Terraform**, and **FastAPI**  
+  - Hands-on experience with LLM integrations and real-time cloud deployment  
 
 ---
 
 ### 🛠️ My Tech Stack
 
-<div align="center" style="margin: 20px 0;">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
@@ -29,15 +29,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Flutterflow-icon.svg" height="40" alt="FlutterFlow"/>
-  <img src="https://user-images.githubusercontent.com/12294525/239714430-3984c64d-9065-4ca3-ae4a-bd5c480c1195.png" height="40" alt="Postman"/>
-</div>
+  <img src="https://i.imgur.com/gz6kNvO.png" height="40" alt="FlutterFlow" />
+  <img src="https://i.imgur.com/4M34hi2.png" height="40" alt="Postman" />
+</p>
 
 ---
 
 ### 🌟 Featured Projects
 
-> 💡 Built with 💙 — Click & explore
+> Click & explore
 
 - 🎧 [Spotify Clone](https://capten05ast.github.io/Spotit_fy/)
 - 🧠 [Deep Check Chatbot](https://capten05ast.github.io/Deep-Check/)
@@ -52,8 +52,8 @@
 ### 📜 Research Publication
 
 **Systematic Irrigation Using Sensor Technology**  
-📄 *Published in iManager Journals*  
-💡 Embedded C, Arduino IDE, NodeMCU, IoT & Web-Based Control
+Published in *iManager Journals*  
+📌 Focused on IoT using Arduino, NodeMCU, and web-based controls
 
 ---
 
@@ -75,6 +75,10 @@
 </div>
 
 ---
+
+### 🏁 Thanks for visiting my profile!
+> Let's build something awesome.
+
 
 
 
