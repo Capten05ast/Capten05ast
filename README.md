@@ -29,8 +29,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/flutterflow-1.svg" height="40" alt="FlutterFlow"/>
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-postman-3521648-2945092.png" height="40" alt="Postman"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Flutterflow-icon.svg" height="40" alt="FlutterFlow"/>
+  <img src="https://user-images.githubusercontent.com/12294525/239714430-3984c64d-9065-4ca3-ae4a-bd5c480c1195.png" height="40" alt="Postman"/>
 </div>
 
 ---
