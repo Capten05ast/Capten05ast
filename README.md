@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer ⚛️ | GenAI Intern 🤖 | React-Redux Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Frontend+Dev+Who+Loves+Code+💻;Gen+AI+Explorer+🧠;JS+%7C+React+%7C+Azure+%7C+FlutterFlow+⚡;Always+learning+%7C+Always+building+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Frontend+Dev+Who+Loves+to+Code+💻;JS+%7C+React+%7C+Gen-AI+%7C+DSA+⚡;Always+learning+%7C+Always+building+🚀" alt="Typing SVG" />
 </p>
 
 ---
@@ -51,7 +51,7 @@
 
 ### 📜 Research Publication
 
-**Systematic Irrigation Using Sensor Technology**  
+**Systematic Irrigation System Using Sensor Technology**  
 Published in *iManager Journals*  
 📌 Focused on IoT using Arduino, NodeMCU, and web-based controls
 
@@ -61,7 +61,6 @@ Published in *iManager Journals*
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Capten05ast&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Capten05ast&theme=radical" height="180"/>
 </p>
 
 ---
