@@ -31,9 +31,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="Redux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
 
-<br>
 
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt6DXuvit57V1DmjnlLcwst4O-sTL5D37gIQ&s" height="40" alt="GitHub"/>
+
+<br>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure"/>
   <img src="https://avatars.githubusercontent.com/u/74943865?s=200&v=4" height="40" alt="FlutterFlow" />
   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" height="40" alt="Postman" />
