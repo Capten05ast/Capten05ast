@@ -65,6 +65,7 @@ Published in *iManager Journals*
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Capten05ast&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Capten05ast&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
