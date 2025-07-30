@@ -27,9 +27,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="Redux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtGg2RJvvrzmUi4BXEWzpEwLc2XkJndppcgQ&s" height="40" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure"/>
-  <img src="https://i.imgur.com/gz6kNvO.png" height="40" alt="FlutterFlow" />
+  <img src="https://avatars.githubusercontent.com/u/74943865?s=200&v=4" height="40" alt="FlutterFlow" />
   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" height="40" alt="Postman" />
 </p>
 
