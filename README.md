@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm Aditya Tilekar</h1>
-<h3 align="center">MERN Stack Dev | Final Year Comp Engg. Student | Ex-GenAI Intern </h3>
+<h3 align="center">MERN Stack Dev | Ex-GenAI Intern <br/> Final Year Comp Engg. Student </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=%20A+Dev+Who+Loves+to+Create+💻;Always+learning,+Always+building+🛠️" alt="Typing SVG" />
