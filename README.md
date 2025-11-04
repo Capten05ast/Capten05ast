@@ -32,7 +32,8 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt6DXuvit57V1DmjnlLcwst4O-sTL5D37gIQ&s" height="40" alt="GitHub"/>
   <img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png" height="40" alt="Node.js"/>
   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" height="40" alt="Postman" />
-  <img src="https://blog.logrocket.com/wp-content/uploads/2020/12/express-middlewares-complete-guide.png" height="40" alt="Express.js" />
+  <img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" height="40" alt="Express.js" />
+  <img src="https://images.seeklogo.com/logo-png/48/1/mongodb-logo-png_seeklogo-481256.png" height="40" alt="MongoDB" />
 </p>
 
 ---
