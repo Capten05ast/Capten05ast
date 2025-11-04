@@ -2,7 +2,7 @@
 <h3 align="center">MERN Stack Dev | Ex-GenAI Intern </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=%20A+Dev+Who+Loves+to+Create+💻;Always+learning,+Always+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=%20A+Dev+Who+Loves+to+Create+💻;Always+learning,+Always+building+🛠️" alt="Typing SVG" />
 </p>
 
 
