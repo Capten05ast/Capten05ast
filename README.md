@@ -30,7 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="Redux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt6DXuvit57V1DmjnlLcwst4O-sTL5D37gIQ&s" height="40" alt="GitHub"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIWzTQtbiIBkaPDr-d_QExMudV1mLtL7372Q&s" height="40" alt="Node.js"/>
+  <img src="https://e7.pngegg.com/pngimages/306/37/png-clipart-node-js-logo-node-js-javascript-web-application-express-js-computer-software-others-miscellaneous-text-thumbnail.png" height="40" alt="Node.js"/>
   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" height="40" alt="Postman" />
 </p>
 
