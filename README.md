@@ -35,6 +35,7 @@
   <img src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" height="40" alt="MongoDB" />
   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" height="40" alt="Postman" />
   <img src="https://avatars.githubusercontent.com/u/10566080?s=280&v=4" height="40" alt="Socket.io" />
+  <img src="https://cdn.brandfetch.io/id8c1BII23/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1712150692788" height="40" alt="Imagekit.io" />
 </p>
 
 ---
