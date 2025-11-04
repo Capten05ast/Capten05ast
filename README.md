@@ -31,9 +31,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt6DXuvit57V1DmjnlLcwst4O-sTL5D37gIQ&s" height="40" alt="GitHub"/>
   <img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png" height="40" alt="Node.js"/>
-  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" height="40" alt="Postman" />
   <img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" height="40" alt="Express.js" />
   <img src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" height="40" alt="MongoDB" />
+  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" height="40" alt="Postman" />
+  <img src="https://toppng.com/uploads/preview/socketio-logo-11609377303bk2ogi3bgv.png" height="40" alt="Socket.io" />
 </p>
 
 ---
