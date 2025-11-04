@@ -34,7 +34,7 @@
   <img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" height="40" alt="Express.js" />
   <img src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" height="40" alt="MongoDB" />
   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" height="40" alt="Postman" />
-  <img src="https://toppng.com/uploads/preview/socketio-logo-11609377303bk2ogi3bgv.png" height="40" alt="Socket.io" />
+  <img src="https://avatars.githubusercontent.com/u/10566080?s=280&v=4" height="40" alt="Socket.io" />
 </p>
 
 ---
