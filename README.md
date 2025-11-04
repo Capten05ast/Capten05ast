@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm Aditya Tilekar</h1>
-<h3 align="center">Frontend Developer | Ex-GenAI Intern </h3>
+<h3 align="center">MERN Stack Dev | Ex-GenAI Intern </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=%20Frontend+Dev+Who+Loves+to+Code+💻;%50JS+%7C+Redux+%7C+React+%7C+Gen-AI+%7C+DSA+⚡;Always+learning,+Always+building" alt="Typing SVG" />
@@ -12,8 +12,7 @@
 
 ### 🧠 About Me
 
-- 🎓 B.E. Computer Engineering @ Sinhgad Academy of Engineering, Pune  
-- 🔥 Passionate about building clean, responsive UIs with React and JavaScript  
+- 🎓 B.E. Computer Engineering @ Sinhgad Academy of Engineering, Pune    
 - 🤖 Former **Gen AI Intern @ Itomata LLP**  
   - Built chatbots using **FlutterFlow**, **Groq APIs**, and **Firebase**  
   - Worked with **Postman**, **Azure**, **Terraform**, and **FastAPI**  
@@ -42,13 +41,12 @@
 
 > Click & explore
 
+
+- 🚀 [Stack-Stock_Store](https://capten05ast.github.io/Stack_Stock_Store/)
 - 🎧 [Spotify Clone](https://capten05ast.github.io/Spotit_fy/)
-- 🧠 [Deep Check Chatbot](https://capten05ast.github.io/Deep-Check/)
 - 🍽️ [Sibar Express (Canteen App)](https://capten05ast.github.io/express/)
-- 🐍 [Snake Game](https://capten05ast.github.io/Snake-Masters/)
 - ⛳ [Sidcup Golfers (Landing Page)](https://capten05ast.github.io/Sidcup_Golfers/)
 - 🔐 [Pass Cryptic](https://capten05ast.github.io/Pass_Cryptic/)
-- 🏃‍♂️ [Run Man Platformer](https://capten05ast.github.io/Run-Man/)
 - 💯 [Productivity Dashboard](https://capten05ast.github.io/Productivity_DashBoard/)
 
 ---
