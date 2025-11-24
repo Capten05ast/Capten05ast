@@ -1,11 +1,9 @@
-
-
 # <h1 align="center">👋 Hey there! I'm Aditya Tilekar</h1>
 
-<h3 align="center">🔥 MERN Stack Dev | Ex-GenAI Intern <br/> Final Year Comp Engg. Student 🚀</h3>
+<h3 align="center">🌐 MERN Stack Dev | Ex-GenAI Intern <br/> Final Year Comp Engg. Student 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=550&lines=A+Dev+Who+Loves+to+Create+💻;Always+learning,+Always+building+🛠️;Building+the+Future+with+Code+⚡;Turn+Ideas+Into+Reality+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=550&lines=A+Dev+Who+Loves+to+Create+💻;Always+learning,+Always+building+🛠️;Building+the+......+with+Code+⚡;Turning+Ideas+Into+Reality+💡" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -257,5 +255,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Capten05ast&style=flat-square&color=blue" alt="Profile Views" />
 </p>
-
-
