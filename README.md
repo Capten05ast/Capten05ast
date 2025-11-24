@@ -252,19 +252,7 @@
   <i>Let's build something awesome.</i>
   <br/><br/>
   <code>
-    while (building) { 
-    <br/>
-      try { 
-    <br/>
-        code_like_poet(); 
-    <br/>
-      } catch (err) { 
-    <br/>
-      debug_like_surgeon(); 
-    <br/>
-      }
-    <br/>
-    }
+    while (building) { try { code_like_poet(); } catch (err) { debug_like_surgeon(); } }
   </code>
 </h3>
 
