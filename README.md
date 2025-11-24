@@ -114,15 +114,15 @@
 
 ### 🍽️ Sibar Express (Canteen App)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-success?style=flat-square&logo=github)](https://capten05ast.github.io/express/)
-[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://firebase.google.com)
-[![Real-time](https://img.shields.io/badge/Real--time%20Updates-FF6B6B?style=flat-square)](https://firebase.google.com)
+[![HTML](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-**Smart canteen ordering system with real-time order tracking**
-- 🔔 Live order status updates
-- 📦 Menu browsing with filtering
-- 💳 Easy checkout process
-- 📍 Order tracking dashboard
+**Canteen ordering system with local storage persistence**
+- 🍴 Menu browsing & item selection
+- 📝 Order cart management
+- 💾 Local storage for data persistence
+- 📋 Order history tracking
 
 ---
 
@@ -156,15 +156,15 @@
 
 ### 💯 Productivity Dashboard
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-success?style=flat-square&logo=github)](https://capten05ast.github.io/Productivity_DashBoard/)
-[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev)
-[![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)](https://redux.js.org)
-[![Analytics](https://img.shields.io/badge/Analytics-Charts-4A90E2?style=flat-square)](https://recharts.org)
+[![HTML](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-**Advanced task management with real-time analytics & insights**
-- 📊 Beautiful data visualizations
-- ✅ Task management system
-- 📈 Performance tracking
-- 🎯 Goal-setting features
+**Task management dashboard with local storage & API integration**
+- ✅ Task creation & management
+- 📊 Data persistence with local storage
+- 🔄 API configuration for data fetching
+- 📈 Task tracking & organization
 
 </div>
 
