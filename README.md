@@ -91,12 +91,10 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
 
 **E-commerce platform with intelligent inventory management & real-time stock tracking**
-<div align="center">
 - 🛒 Full-featured shopping cart with persistence
 - 📊 Admin dashboard for inventory control
 - ⚡ Fast & responsive UI
 - 💾 Redux state management for scalable data handling
-</div>
 
 ---
 
