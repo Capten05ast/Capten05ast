@@ -2,10 +2,10 @@
 
 # <h1 align="center">👋 Hey there! I'm Aditya Tilekar</h1>
 
-<h3 align="center">🔥 MERN Stack Dev | Ex-GenAI Intern <br/> Final Year Comp Engg. Student 🚀</h3>
+<h3 align="center">🌐 MERN Stack Dev | 🚀 Ex-GenAI Intern <br/> 🎓 Final Year Comp Engg. Student </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=550&lines=A+Dev+Who+Loves+to+Create+💻;Always+learning,+Always+building+🛠️;Building+the+Future+with+Code+⚡;Turn+Ideas+Into+Reality+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=550&lines=A+Dev+Who+Loves+to+Create+💻;Always+learning,+Always+building+🛠️;Building+the+......+with+Code+⚡;Turning+Ideas+Into+Reality+💡" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -28,8 +28,8 @@
 <br/>
 
 ![Lines of Code](https://img.shields.io/badge/Code%20Commits-500+-00FF41?style=flat-square)
-![Contributions](https://img.shields.io/badge/Active%20Projects-10+-FF6B6B?style=flat-square)
-![Tech Stack](https://img.shields.io/badge/Tech%20Stack-8-4A90E2?style=flat-square)
+![Contributions](https://img.shields.io/badge/Projects%20Accomplished-12+-FF6B6B?style=flat-square)
+![Tech Stack](https://img.shields.io/badge/Tech%20Stack-12+-4A90E2?style=flat-square)
 
 </details>
 
@@ -217,7 +217,7 @@
 
 ```
 🔨 Building:  Full-stack web applications with MERN
-📚 Learning:  Advanced LLM integrations & AI/ML
+📚 Learning:  Advanced LLM integrations & AI/ML tools
 🚀 Working:   Scalable cloud-based solutions
 ```
 
