@@ -82,14 +82,91 @@
 
 > **Click & explore** 🚀
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🚀 **[Stack-Stock_Store](https://capten05ast.github.io/Stack_Stock_Store/)** | E-commerce platform with inventory management | React, Node, MongoDB |
-| 🎧 **[Spotify Clone](https://capten05ast.github.io/Spotit_fy/)** | Music streaming with playlist features | HTML, CSS, JS |
-| 🍽️ **[Sibar Express](https://capten05ast.github.io/express/)** | Canteen app with real-time orders | React, Firebase |
-| ⛳ **[Sidcup Golfers](https://capten05ast.github.io/Sidcup_Golfers/)** | Premium landing page with animations | HTML, CSS, Animations |
-| 🔐 **[Pass Cryptic](https://capten05ast.github.io/Pass_Cryptic/)** | Secure password manager | JavaScript, Encryption |
-| 💯 **[Productivity Dashboard](https://capten05ast.github.io/Productivity_DashBoard/)** | Task management with analytics | React, Redux |
+<div align="center">
+
+### 🚀 Stack-Stock_Store
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-success?style=flat-square&logo=github)](https://capten05ast.github.io/Stack_Stock_Store/)
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org)
+[![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com)
+
+**E-commerce platform with intelligent inventory management & real-time stock tracking**
+- 🛒 Full-featured shopping cart with persistence
+- 📊 Admin dashboard for inventory control
+- 💾 MongoDB backend for scalable data management
+- ⚡ Fast & responsive UI
+
+---
+
+### 🎧 Spotify Clone
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-success?style=flat-square&logo=github)](https://capten05ast.github.io/Spotit_fy/)
+[![HTML](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+**Music streaming application with sleek UI & playlist management**
+- 🎵 Dynamic music player with controls
+- 📝 Playlist creation & management
+- 🎨 Beautiful gradient UI inspired by Spotify
+- 🔊 Audio playback with volume control
+
+---
+
+### 🍽️ Sibar Express (Canteen App)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-success?style=flat-square&logo=github)](https://capten05ast.github.io/express/)
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://firebase.google.com)
+[![Real-time](https://img.shields.io/badge/Real--time%20Updates-FF6B6B?style=flat-square)](https://firebase.google.com)
+
+**Smart canteen ordering system with real-time order tracking**
+- 🔔 Live order status updates
+- 📦 Menu browsing with filtering
+- 💳 Easy checkout process
+- 📍 Order tracking dashboard
+
+---
+
+### ⛳ Sidcup Golfers (Landing Page)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-success?style=flat-square&logo=github)](https://capten05ast.github.io/Sidcup_Golfers/)
+[![HTML](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Animations](https://img.shields.io/badge/GSAP%20Animations-88CE02?style=flat-square)](https://greensock.com)
+
+**Premium landing page with stunning animations & interactions**
+- ✨ Smooth scrolling animations
+- 🎬 GSAP-powered effects
+- 🎨 Modern design & typography
+- 📱 Fully responsive layout
+
+---
+
+### 🔐 Pass Cryptic
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-success?style=flat-square&logo=github)](https://capten05ast.github.io/Pass_Cryptic/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Encryption](https://img.shields.io/badge/Encryption-Security-red?style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/API/SubtleCrypto)
+[![Local Storage](https://img.shields.io/badge/Local%20Storage-blue?style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
+
+**Secure password manager with advanced encryption**
+- 🔒 Encrypted password storage
+- 🔑 Strong password generator
+- 📋 Copy-to-clipboard functionality
+- 💾 Local storage for privacy
+
+---
+
+### 💯 Productivity Dashboard
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-success?style=flat-square&logo=github)](https://capten05ast.github.io/Productivity_DashBoard/)
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev)
+[![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)](https://redux.js.org)
+[![Analytics](https://img.shields.io/badge/Analytics-Charts-4A90E2?style=flat-square)](https://recharts.org)
+
+**Advanced task management with real-time analytics & insights**
+- 📊 Beautiful data visualizations
+- ✅ Task management system
+- 📈 Performance tracking
+- 🎯 Goal-setting features
+
+</div>
 
 ---
 
@@ -180,3 +257,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Capten05ast&style=flat-square&color=blue" alt="Profile Views" />
 </p>
+
+
