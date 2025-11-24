@@ -1,6 +1,5 @@
 
 
-
 # <h1 align="center">👋 Hey there! I'm Aditya Tilekar</h1>
 
 <h3 align="center">🔥 MERN Stack Dev | Ex-GenAI Intern <br/> Final Year Comp Engg. Student 🚀</h3>
@@ -87,51 +86,58 @@
 
 ### 🚀 Stack-Stock_Store
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-success?style=flat-square&logo=github)](https://capten05ast.github.io/Stack_Stock_Store/)
-[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org)
-[![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com)
+[![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev)
+[![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)](https://redux-toolkit.js.org)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
 
 **E-commerce platform with intelligent inventory management & real-time stock tracking**
 - 🛒 Full-featured shopping cart with persistence
 - 📊 Admin dashboard for inventory control
-- 💾 MongoDB backend for scalable data management
 - ⚡ Fast & responsive UI
+- 💾 Redux state management for scalable data handling
 
 ---
 
-### 🎧 Spotify Clone
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-success?style=flat-square&logo=github)](https://capten05ast.github.io/Spotit_fy/)
-[![HTML](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+### 🎧 Moody Player
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-success?style=flat-square&logo=github)](https://github.com/Capten05ast/Moody_Player)
+[![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org)
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com)
+[![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com)
+[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org)
 
-**Music streaming application with sleek UI & playlist management**
-- 🎵 Dynamic music player with controls
-- 📝 Playlist creation & management
-- 🎨 Beautiful gradient UI inspired by Spotify
-- 🔊 Audio playback with volume control
+**AI-powered music player with mood-based recommendations**
+- 🎵 Intelligent mood detection system
+- 🎯 ML-powered music recommendations
+- 🎨 Beautiful responsive UI
+- ☁️ Full-stack architecture with real-time data sync
 
 ---
 
 ### 🍽️ Sibar Express (Canteen App)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-success?style=flat-square&logo=github)](https://capten05ast.github.io/express/)
-[![HTML](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Vanilla JS](https://img.shields.io/badge/Vanilla%20JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Email JS](https://img.shields.io/badge/Email%20JS-8B7355?style=flat-square)](https://www.emailjs.com)
+[![Local Storage](https://img.shields.io/badge/Local%20Storage-blue?style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
 
 **Canteen ordering system with local storage persistence**
 - 🍴 Menu browsing & item selection
 - 📝 Order cart management
 - 💾 Local storage for data persistence
+- 📧 Email notifications for orders
 - 📋 Order history tracking
 
 ---
 
 ### ⛳ Sidcup Golfers (Landing Page)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-success?style=flat-square&logo=github)](https://capten05ast.github.io/Sidcup_Golfers/)
-[![HTML](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Animations](https://img.shields.io/badge/GSAP%20Animations-88CE02?style=flat-square)](https://greensock.com)
+[![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![GSAP Animations](https://img.shields.io/badge/GSAP%20Animations-88CE02?style=flat-square)](https://greensock.com)
 
 **Premium landing page with stunning animations & interactions**
 - ✨ Smooth scrolling animations
@@ -143,8 +149,9 @@
 
 ### 🔐 Pass Cryptic
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-success?style=flat-square&logo=github)](https://capten05ast.github.io/Pass_Cryptic/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Encryption](https://img.shields.io/badge/Encryption-Security-red?style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/API/SubtleCrypto)
 [![Local Storage](https://img.shields.io/badge/Local%20Storage-blue?style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
 
 **Secure password manager with advanced encryption**
@@ -157,9 +164,10 @@
 
 ### 💯 Productivity Dashboard
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-success?style=flat-square&logo=github)](https://capten05ast.github.io/Productivity_DashBoard/)
-[![HTML](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Local Storage](https://img.shields.io/badge/Local%20Storage-blue?style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
 
 **Task management dashboard with local storage & API integration**
 - ✅ Task creation & management
@@ -258,3 +266,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Capten05ast&style=flat-square&color=blue" alt="Profile Views" />
 </p>
+
+
