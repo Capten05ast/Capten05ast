@@ -252,7 +252,7 @@
   <i>Let's build something awesome.</i>
   <br/><br/>
   <code>
-    while(learning) { build(); create(); innovate(); }
+    while(building) { code_like_poet(); debug_like_surgeon(); }
   </code>
 </h3>
 
