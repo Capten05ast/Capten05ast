@@ -84,7 +84,7 @@
 
 <div align="center">
 
-### 🚀 Stack-Stock_Store
+### 🛒 Stack Stock Store
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-success?style=flat-square&logo=github)](https://capten05ast.github.io/Stack_Stock_Store/)
 [![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev)
 [![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)](https://redux-toolkit.js.org)
