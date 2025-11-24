@@ -1,49 +1,47 @@
-<h1 align="center">Hey there! 👋 I'm Aditya Tilekar</h1>
+
+
+# <h1 align="center">Hey there! 👋 I'm Aditya Tilekar</h1>
+
 <h3 align="center">MERN Stack Dev | Ex-GenAI Intern <br/> Final Year Comp Engg. Student </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=%20A+Dev+Who+Loves+to+Create+💻;Always+learning,+Always+building+🛠️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F8F8F8&center=true&vCenter=true&width=550&lines=A+Dev+Who+Loves+to+Create+💻;Always+learning,+Always+building+🛠️" alt="Typing SVG" />
 </p>
-
-
-
 
 ---
 
-### 🧠 About Me
+## 🧠 About Me
 
-- 🎓 B.E. Computer Engineering @ Sinhgad Academy of Engineering, Pune    
-- 🤖 Former **Gen AI Intern @ Itomata LLP**  
-  - Built chatbots using **FlutterFlow**, **Groq APIs**, and **Firebase**  
-  - Worked with **Postman**, **Azure**, **Terraform**, and **FastAPI**  
+- 🎓 **B.E. Computer Engineering @ Sinhgad Academy of Engineering, Pune**    
+- 🤖 **Former Gen AI Intern @ Itomata LLP**  
+  - Built chatbots using **FlutterFlow, Groq APIs, and Firebase**  
+  - Worked with **Postman, Azure, Terraform, and FastAPI**  
   - Hands-on experience with LLM integrations and real-time cloud deployment  
 
 ---
 
-### 🛠️ My Tech Stack
+## 🛠️ My Tech Stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="Redux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt6DXuvit57V1DmjnlLcwst4O-sTL5D37gIQ&s" height="40" alt="GitHub"/>
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png" height="40" alt="Node.js"/>
-  <img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" height="40" alt="Express.js" />
-  <img src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" height="40" alt="MongoDB" />
-  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" height="40" alt="Postman" />
-  <img src="https://avatars.githubusercontent.com/u/10566080?s=280&v=4" height="40" alt="Socket.io" />
-  <img src="https://cdn.brandfetch.io/id8c1BII23/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1712150692788" height="40" alt="Imagekit.io" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" style="margin: 0 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" style="margin: 0 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" style="margin: 0 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" style="margin: 0 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="Redux" style="margin: 0 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" style="margin: 0 10px;"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt6DXuvit57V1DmjnlLcwst4O-sTL5D37gIQ&s" height="40" alt="GitHub" style="margin: 0 10px;"/>
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png" height="40" alt="Node.js" style="margin: 0 10px;"/>
+  <img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" height="40" alt="Express.js" style="margin: 0 10px;" />
+  <img src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" height="40" alt="MongoDB" style="margin: 0 10px;" />
+  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" height="40" alt="Postman" style="margin: 0 10px;" />
+  <img src="https://avatars.githubusercontent.com/u/10566080?s=280&v=4" height="40" alt="Socket.io" style="margin: 0 10px;" />
+  <img src="https://cdn.brandfetch.io/id8c1BII23/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1712150692788" height="40" alt="Imagekit.io" style="margin: 0 10px;" />
 </p>
 
 ---
 
-### 🌟 Featured Projects
-
+## 🌟 Featured Projects
 > Click & explore
-
 
 - 🚀 [Stack-Stock_Store](https://capten05ast.github.io/Stack_Stock_Store/)
 - 🎧 [Spotify Clone](https://capten05ast.github.io/Spotit_fy/)
@@ -54,7 +52,7 @@
 
 ---
 
-### 📜 Research Publication
+## 📜 Research Publication
 
 **Systematic Irrigation System Using Sensor Technology**  
 Published in *iManager Journals*  
@@ -62,15 +60,15 @@ Published in *iManager Journals*
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Capten05ast&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Capten05ast&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ---
 
-### 🤝 Let’s Connect
+## 🤝 Let's Connect
 
 <div align="center">
   <a href="mailto:adityatilekar.sae.comp@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail.png" width="30" title="Gmail"/></a>
@@ -80,12 +78,6 @@ Published in *iManager Journals*
 
 ---
 
-### 🏁 Thanks for visiting my profile!
-> Let's build something awesome. 
+## 🏁 Thanks for visiting my profile!
 
-
-
-
-
-
-
+> Let's build something awesome.
