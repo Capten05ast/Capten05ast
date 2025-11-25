@@ -44,10 +44,12 @@
 🎓 **B.E. Computer Engineering**  
    @ Sinhgad Academy of Engineering, Pune
 
+
 🤖 **Former Gen AI Intern @ Itomata LLP**
    - 🔧 Built chatbots using **FlutterFlow, Groq APIs, Firebase**
    - ⚙️ Worked with **Postman, Azure, Terraform, FastAPI**
    - 🚀 Hands-on experience with **LLM integrations & real-time cloud deployment**
+
 
 🍁 **Seasonal Poet**
 
