@@ -46,14 +46,14 @@
 <br/>
 <br/>
 
-🤖 **Former Gen AI Intern @ Itomata LLP**
+🍁 **Former Gen AI Intern @ Itomata LLP**
    - 🔧 Built chatbots using **FlutterFlow, Groq APIs, Firebase**
    - ⚙️ Worked with **Postman, Azure, Terraform, FastAPI**
    - 🚀 Hands-on experience with **LLM integrations & real-time cloud deployment**
 <br/>
 
 
-🍁 **Seasonal Poet**
+✍️ **Seasonal Poet**
 
 </td>
 </tr>
