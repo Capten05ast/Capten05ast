@@ -49,6 +49,8 @@
    - ⚙️ Worked with **Postman, Azure, Terraform, FastAPI**
    - 🚀 Hands-on experience with **LLM integrations & real-time cloud deployment**
 
+🍁 **Seasonal Poet**
+
 </td>
 </tr>
 </table>
