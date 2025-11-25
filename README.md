@@ -44,6 +44,7 @@
 🎓 **B.E. Computer Engineering**  
    @ Sinhgad Academy of Engineering, Pune
 <br/>
+<br/>
 
 🤖 **Former Gen AI Intern @ Itomata LLP**
    - 🔧 Built chatbots using **FlutterFlow, Groq APIs, Firebase**
