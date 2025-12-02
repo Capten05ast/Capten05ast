@@ -90,9 +90,8 @@
 
 <div align="center">
 
-### 🤖 Aurora ChatGPT - AI Chat with RAG
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-success?style=flat-square&logo=render)](https://chat-gpt-lyj2.onrender.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Code-black?style=flat-square&logo=github)](https://github.com/Capten05ast/Chat_GPT)
+### 💡 Aurora ChatGPT 
+[![View Code](https://img.shields.io/badge/GitHub-View%20Code-black?style=flat-square&logo=github)](https://github.com/Capten05ast/Chat_GPT)
 [![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org)
 [![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com)
@@ -100,16 +99,13 @@
 [![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)](https://socket.io)
 [![Pinecone](https://img.shields.io/badge/Pinecone%20VectorDB-000000?style=flat-square)](https://www.pinecone.io)
 [![Google Gemini](https://img.shields.io/badge/Google%20Gemini%20AI-4285F4?style=flat-square&logo=google&logoColor=white)](https://ai.google.dev)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
 
-**Full-stack ChatGPT clone with RAG (Retrieval-Augmented Generation) for intelligent conversations**
-- 🧠 RAG Architecture with Pinecone Vector Database for Long-Term Memory
+**Full-stack ChatGPT clone with RAG (Retrieval-Augmented Generation)**
+- 🧠 RAG Architecture with Pinecone Vector Database
 - 💬 Real-time chat with Socket.io for instant messaging
-- 🔐 Secure authentication & session management
-- 📚 Multi-chat support with persistent storage in MongoDB
-- 🤖 Google Generative AI (Gemini) integration
-- 🎨 Light/Dark theme with responsive UI
-- 🚀 Deployed on Render with production-ready error handling
-- ✅ Toast notifications for enhanced user experience
+- 🤖 Google Gemini Embeeding Model integration
+- 🚀 Deployed on Render with production-ready architecture
 
 ---
 
