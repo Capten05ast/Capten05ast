@@ -258,11 +258,9 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
 
-<h2 align="center">🏁 Thanks for visiting my profile! 🚀</h2>
+<h2 align="center">🏁 Thanks for visiting my profile!</h2>
 
 <h3 align="center">
-  <i>Let's build something awesome.</i>
-  <br/><br/>
   <code>
     while (building) try { code_like_poet() } catch { debug_like_surgeon() }
   </code>
