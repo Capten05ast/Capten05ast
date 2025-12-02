@@ -227,14 +227,9 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Capten05ast&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Capten05ast&theme=dark&background=0D1117" alt="Streak Stats" width="48%" />
-</p>
+[![GitHub Stats](https://img.shields.io/badge/GitHub%20Profile-Capten05ast-black?style=for-the-badge&logo=github)](https://github.com/Capten05ast)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Capten05ast&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
-</p>
+📊 Visit my [GitHub Profile](https://github.com/Capten05ast?tab=repositories) to see all my projects!
 
 ---
 
