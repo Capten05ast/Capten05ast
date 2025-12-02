@@ -225,14 +225,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-[![GitHub Stats](https://img.shields.io/badge/GitHub%20Profile-Capten05ast-black?style=for-the-badge&logo=github)](https://github.com/Capten05ast)
-
-📊 Visit my [GitHub Profile](https://github.com/Capten05ast?tab=repositories) to see all my projects!
-
----
-
 ## 🎯 Current Focus
 
 ```
@@ -275,11 +267,6 @@
     while (building) try { code_like_poet() } catch { debug_like_surgeon() }
   </code>
 </h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Always%20Open%20for%20Opportunities-success?style=flat-square" />
-  <img src="https://img.shields.io/badge/Vibe-Code%20%2B%20Creativity-blue?style=flat-square" />
-</p>
 
 ---
 
