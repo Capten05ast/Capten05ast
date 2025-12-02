@@ -5,7 +5,7 @@
 <h3 align="center">🌐 MERN Stack Dev | 🚀 Ex-GenAI Intern <br/> 🎓 Final Year Comp Engg. Student </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=550&lines=A+Dev+Who+Loves+to+Create+💻;Always+learning,+Always+building+🛠️;Building+the+******+with+Code+⚡;Turning+Ideas+Into+Reality+💡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=550&lines=A+Dev+Who+Loves+to+Create+💻;Always+learning,+Always+building+🛠️;Building+the+Future+with+Code+⚡;Turning+Ideas+Into+Reality+💡" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@
 <br/>
 
 ![Lines of Code](https://img.shields.io/badge/Code%20Commits-500+-00FF41?style=flat-square)
-![Contributions](https://img.shields.io/badge/Projects%20Accomplished-12+-FF6B6B?style=flat-square)
+![Contributions](https://img.shields.io/badge/Projects%20Accomplished-13+-FF6B6B?style=flat-square)
 ![Tech Stack](https://img.shields.io/badge/Tech%20Stack-12+-4A90E2?style=flat-square)
 
 </details>
@@ -89,6 +89,29 @@
 > **Click & explore** 👆
 
 <div align="center">
+
+### 🤖 Aurora ChatGPT - AI Chat with RAG
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-success?style=flat-square&logo=render)](https://chat-gpt-lyj2.onrender.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Code-black?style=flat-square&logo=github)](https://github.com/Capten05ast/Chat_GPT)
+[![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org)
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com)
+[![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com)
+[![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)](https://socket.io)
+[![Pinecone](https://img.shields.io/badge/Pinecone%20VectorDB-000000?style=flat-square)](https://www.pinecone.io)
+[![Google Gemini](https://img.shields.io/badge/Google%20Gemini%20AI-4285F4?style=flat-square&logo=google&logoColor=white)](https://ai.google.dev)
+
+**Full-stack ChatGPT clone with RAG (Retrieval-Augmented Generation) for intelligent conversations**
+- 🧠 RAG Architecture with Pinecone Vector Database for Long-Term Memory
+- 💬 Real-time chat with Socket.io for instant messaging
+- 🔐 Secure authentication & session management
+- 📚 Multi-chat support with persistent storage in MongoDB
+- 🤖 Google Generative AI (Gemini) integration
+- 🎨 Light/Dark theme with responsive UI
+- 🚀 Deployed on Render with production-ready error handling
+- ✅ Toast notifications for enhanced user experience
+
+---
 
 ### 🛒 Stack Stock Store
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-success?style=flat-square&logo=github)](https://stack-stock-store.onrender.com/)
@@ -222,9 +245,9 @@
 ## 🎯 Current Focus
 
 ```
-🔨 Building:  Full-stack web applications with MERN
-📚 Learning:  Advanced LLM integrations & AI/ML tools
-🚀 Working:   Scalable cloud-based solutions
+🔨 Building:  Full-stack web applications with MERN & AI integrations
+📚 Learning:  Advanced LLM integrations & RAG architectures
+🚀 Working:   Scalable cloud-based solutions with vector databases
 ```
 
 ---
@@ -272,5 +295,4 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Capten05ast&style=flat-square&color=blue" alt="Profile Views" />
 </p>
-
 
