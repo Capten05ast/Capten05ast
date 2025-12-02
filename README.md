@@ -261,9 +261,7 @@
 <h2 align="center">🏁 Thanks for visiting my profile!</h2>
 
 <h3 align="center">
-  <code>
-    while (building) try { code_like_poet() } catch { debug_like_surgeon() }
-  </code>
+  <code>while (building) try { code_like_poet() } catch { debug_like_surgeon() }</code>
 </h3>
 
 ---
