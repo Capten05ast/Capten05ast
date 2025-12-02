@@ -90,8 +90,9 @@
 
 <div align="center">
 
-### 💡 Aurora ChatGPT 
-[![View Code](https://img.shields.io/badge/GitHub-View%20Code-black?style=flat-square&logo=github)](https://github.com/Capten05ast/Chat_GPT)
+### 🤖 Aurora ChatGPT - AI Chat with RAG
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-success?style=flat-square&logo=render)](https://chat-gpt-lyj2.onrender.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Code-black?style=flat-square&logo=github)](https://github.com/Capten05ast/Chat_GPT)
 [![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org)
 [![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com)
@@ -99,13 +100,16 @@
 [![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)](https://socket.io)
 [![Pinecone](https://img.shields.io/badge/Pinecone%20VectorDB-000000?style=flat-square)](https://www.pinecone.io)
 [![Google Gemini](https://img.shields.io/badge/Google%20Gemini%20AI-4285F4?style=flat-square&logo=google&logoColor=white)](https://ai.google.dev)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
 
-**Full-stack ChatGPT clone with RAG (Retrieval-Augmented Generation)**
-- 🧠 RAG Architecture with Pinecone Vector Database
+**Full-stack ChatGPT clone with RAG (Retrieval-Augmented Generation) for intelligent conversations**
+- 🧠 RAG Architecture with Pinecone Vector Database for Long-Term Memory
 - 💬 Real-time chat with Socket.io for instant messaging
-- 🤖 Google Gemini Embeeding Model integration
-- 🚀 Deployed on Render with production-ready architecture
+- 🔐 Secure authentication & session management
+- 📚 Multi-chat support with persistent storage in MongoDB
+- 🤖 Google Generative AI (Gemini) integration
+- 🎨 Light/Dark theme with responsive UI
+- 🚀 Deployed on Render with production-ready error handling
+- ✅ Toast notifications for enhanced user experience
 
 ---
 
@@ -131,6 +135,7 @@
 [![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com)
 [![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com)
 [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org)
+[![Imagekit.io](https://img.shields.io/badge/Imagekit.io-Image%20Optimization-FF6B6B?style=flat-square)](https://imagekit.io)
 
 **AI-powered music player with mood-based recommendations**
 - 🎵 Intelligent mood detection system
@@ -225,6 +230,25 @@
 
 ---
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/Capten05ast">
+    <img src="https://github-readme-stats-git-main-ysacx.vercel.app/api?username=Capten05ast&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  </a>
+  <a href="https://github.com/Capten05ast">
+    <img src="https://streak-stats.demolab.com?user=Capten05ast&theme=dark&background=0D1117" alt="Streak Stats" width="48%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Capten05ast">
+    <img src="https://github-readme-stats-git-main-ysacx.vercel.app/api/top-langs/?username=Capten05ast&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+  </a>
+</p>
+
+---
+
 ## 🎯 Current Focus
 
 ```
@@ -258,15 +282,29 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
 
-<h2 align="center">🏁 Thanks for visiting my profile!</h2>
+<h2 align="center">🏁 Thanks for visiting my profile! 🚀</h2>
 
 <h3 align="center">
-  <code>while (building) try { code_like_poet() } catch { debug_like_surgeon() }</code>
+  <i>Let's build something awesome.</i>
+  <br/><br/>
+  <code>
+    while (building) try { code_like_poet() } catch { debug_like_surgeon() }
+  </code>
 </h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Always%20Open%20for%20Opportunities-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Vibe-Code%20%2B%20Creativity-blue?style=flat-square" />
+</p>
 
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Capten05ast&style=flat-square&color=blue" alt="Profile Views" />
 </p>
+
+
+
+
+
 
