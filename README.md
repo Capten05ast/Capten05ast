@@ -121,15 +121,11 @@
 [![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)](https://jwt.io)
 [![Imagekit.io](https://img.shields.io/badge/Imagekit.io-FF6347?style=flat-square)](https://imagekit.io)
 
-**Real-time responsive chat application built with the MERN stack, focused on system consistency under real-world conditions**
-- 💬 Real-time messaging using Socket.io rooms (group-based communication)
-- ⌨️ Typing indicators for live user activity
-- ✅ Message status system (single tick / double tick)
-- 👥 Group creation & management with dynamic member updates
-- 🖼️ Profile picture upload & image sharing with cloud storage
-- 👀 Optimized seen system using seenBy logic
-- 🔐 Secure routes using JWT authentication & middleware architecture
-- 🚀 Deployed on Render with reconnect-safe socket handling
+**Real-time chat app built with the MERN stack for consistent, synced messaging**
+- 💬 Real-time messaging with Socket.io rooms & group chats
+- ⌨️ Typing indicators & message status (single/double tick)
+- 🖼️ Image sharing with cloud storage & seen tracking
+- 🔐 JWT-secured routes with reconnect-safe socket handling
 
 ---
 
@@ -147,15 +143,12 @@
 [![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white)](https://razorpay.com)
 [![Imagekit.io](https://img.shields.io/badge/Imagekit.io-FF6347?style=flat-square)](https://imagekit.io)
 
-**AI-powered web application for bone tumor detection and classification, built as my final year project**
-- 🩻 Detects bone tumors from uploaded X-rays and classifies them as Benign or Malignant
-- 🤖 ML model trained using Google Teachable Machine
-- 📂 Patient archive storing all uploaded X-rays per logged-in user
-- 👤 Google Authentication for login & profile management
-- 💳 Free detection, with in-depth cancer analysis unlocked via Razorpay
-- ⚡ Redux Toolkit for state management, styled with Tailwind CSS
-- 🎨 Sleek animated landing page using React Bits
-- ☁️ Cloud image storage & delivery via ImageKit.io
+**AI-powered bone tumor detection & classification app — my final year project**
+- 🩻 Detects & classifies tumors (Benign/Malignant) from X-rays
+- 🤖 ML model trained with Google Teachable Machine
+- 📂 Patient archive with Google Auth login
+- 💳 Free detection, paid cancer analysis via Razorpay
+- 🎨 Animated React Bits landing page + Redux Toolkit state
 
 ---
 
@@ -320,5 +313,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Capten05ast&style=flat-square&color=blue" alt="Profile Views" />
 </p>
+
+
 
 
